@@ -1,20 +1,25 @@
-Visited Node:1
-Visited Node:2
-Visited Node:4
-Visited Node:7
-Visited Node:8
-Visited Node:3
-Visited Node:5
-Visited Node:6
-Visited Node:9
-Visited Node:10
-node visited: 1status1
-node visited: 2status1
-node visited: 3status1
-node visited: 4status1
-node visited: 5status1
-node visited: 6status1
-node visited: 7status1
-node visited: 8status1
-node visited: 9status1
-node visited: 10status1
+Depth of Node:1 Depth:0
+Depth of Node:2 Depth:1
+Depth of Node:3 Depth:1
+Depth of Node:4 Depth:2
+Depth of Node:5 Depth:2
+Depth of Node:6 Depth:3
+Depth of Node:7 Depth:4
+Depth of Node:8 Depth:0
+Depth of Node:9 Depth:0
+Depth of Node:10 Depth:1
+Depth of Node:11 Depth:2
+Depth of Node:12 Depth:2
+*********************
+height of Node:1 Height:4
+height of Node:2 Height:3
+height of Node:3 Height:0
+height of Node:4 Height:0
+height of Node:5 Height:2
+height of Node:6 Height:1
+height of Node:7 Height:0
+height of Node:8 Height:0
+height of Node:9 Height:0
+height of Node:10 Height:1
+height of Node:11 Height:0
+height of Node:12 Height:0
